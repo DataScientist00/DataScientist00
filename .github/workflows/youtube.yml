@@ -19,7 +19,7 @@ jobs:
       - name: Update YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w
+          channel_id: UCRT5jR_pOduzhNYPTXqwn4g
           readme_path: README.md
           max_videos: 4
           card_width: 320
