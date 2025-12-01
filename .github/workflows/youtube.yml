@@ -2,7 +2,7 @@ name: YouTube Cards
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Updates every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Update YouTube Cards
-        uses: DenverCoder1/github-readme-youtube-cards@v3.1.1
+        uses: DenverCoder1/github-readme-youtube-cards@v3.1.0
         with:
-          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w   # your correct channel ID
+          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w
           readme_path: README.md
           max_videos: 4
           card_width: 320
