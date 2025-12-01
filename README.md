@@ -101,21 +101,14 @@ VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataScientist00&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-</div>
-
 ---
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE-CARDS:START -->
 <!-- YOUTUBE-CARDS:END -->
 
-</div>
-
 ---
-
-
-
-
 
 <!-- Footer -->
 <p align="center">✨ Thank you for visiting my profile — let's build something amazing together! ✨</p>
+
