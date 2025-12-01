@@ -105,7 +105,10 @@ VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
 
 ### 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Data Scientist Interview Questions | Pandas + EDA + Linear Regression | 6 LPA | Hindi](https://ytcards.demolab.com/?id=8DyGVhG7Eb8&title=Data+Scientist+Interview+Questions+%7C+Pandas+%2B+EDA+%2B+Linear+Regression+%7C+6+LPA+%7C+Hindi&lang=en&timestamp=1763877611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Data Scientist Interview Questions | Pandas + EDA + Linear Regression | 6 LPA | Hindi")](https://www.youtube.com/watch?v=8DyGVhG7Eb8)
+[![☸️ Deploy Your First Machine Learning Project on Kubernetes | YAML | Docker | Hindi](https://ytcards.demolab.com/?id=lzg1hMbSzfo&title=%E2%98%B8%EF%B8%8F+Deploy+Your+First+Machine+Learning+Project+on+Kubernetes+%7C+YAML+%7C+Docker+%7C+Hindi&lang=en&timestamp=1763566926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "☸️ Deploy Your First Machine Learning Project on Kubernetes | YAML | Docker | Hindi")](https://www.youtube.com/watch?v=lzg1hMbSzfo)
+[![Mushroom Binary Classification | Machine Learning Project | Python | Hindi](https://ytcards.demolab.com/?id=Und8-lk2otA&title=Mushroom+Binary+Classification+%7C+Machine+Learning+Project+%7C+Python+%7C+Hindi&lang=en&timestamp=1763120706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Mushroom Binary Classification | Machine Learning Project | Python | Hindi")](https://www.youtube.com/watch?v=Und8-lk2otA)
+[![Plagiarism Detection with LSTM in Python | NLP Deep Learning Project (Step-by-Step) | Hindi](https://ytcards.demolab.com/?id=KGmpZ9D8le8&title=Plagiarism+Detection+with+LSTM+in+Python+%7C+NLP+Deep+Learning+Project+%28Step-by-Step%29+%7C+Hindi&lang=en&timestamp=1762688703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Plagiarism Detection with LSTM in Python | NLP Deep Learning Project (Step-by-Step) | Hindi")](https://www.youtube.com/watch?v=KGmpZ9D8le8)
 <!-- END YOUTUBE-CARDS -->
 
 
