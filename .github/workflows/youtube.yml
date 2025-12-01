@@ -1,3 +1,4 @@
+
 name: YouTube Cards
 
 on:
@@ -13,7 +14,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Update YouTube Cards
-        uses: DenverCoder1/github-readme-youtube-cards@v3.1.0
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w
           readme_path: README.md
