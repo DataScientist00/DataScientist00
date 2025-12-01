@@ -5,12 +5,16 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # REQUIRED so GitHub can commit changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Update YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@main
