@@ -1,0 +1,26 @@
+name: YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Updates every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@v3.0.0
+        with:
+          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w  
+          card_width: 320
+          max_videos: 4
+          readme_path: README.md
+
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated YouTube thumbnails"
