@@ -15,10 +15,10 @@ jobs:
       - name: Update YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@v3.1.1
         with:
-          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w  
-          card_width: 320
-          max_videos: 4
+          channel_id: UCXEDF4wPvX9q5Yh6B7QXr8w   # your correct channel ID
           readme_path: README.md
+          max_videos: 4
+          card_width: 320
 
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
